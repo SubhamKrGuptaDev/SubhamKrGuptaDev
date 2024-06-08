@@ -6,11 +6,7 @@
 
 ## My name is Subham. I'm a Full Stack Software Engineer.I have used technology such as Java, Spring boot, microservice architecture, HTML, CSS, bootstrap, docker, react, redux Angular, and AWS to deliver high-quality that drive success. I enjoy solving problems and always try to optimize and learn new technologies. Try to improve Everyday 1%.
 
-[![GitHub followers](https://img.shields.io/github/followers/SubhamKrGuptaDev?style=for-the-badge)](https://github.com/SubhamKrGuptaDev)
-
-[![LeetCode user SubhamKrGuptaDev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSubhamKrGuptaDev&logo=leetcode&logoColor=yellow)](https://leetcode.com/SubhamKrGuptaDev/)
-
----
+## [![GitHub followers](https://img.shields.io/github/followers/SubhamKrGuptaDev?style=for-the-badge)](https://github.com/SubhamKrGuptaDev) [![LeetCode user SubhamKrGuptaDev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSubhamKrGuptaDev&logo=leetcode&logoColor=yellow)](https://leetcode.com/SubhamKrGuptaDev/)
 
 <br>
 
