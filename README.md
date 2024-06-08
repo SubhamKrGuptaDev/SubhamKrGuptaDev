@@ -1,10 +1,10 @@
-# Subham Kr Gupta
+# Hey🙋‍♂️ Thanks for visit
 
 <br>
 
 # 💫 About Me:
 
-# Hey🙋‍♂️ My name is Subham. I'm a Full Stack Software Engineer.
+## My name is Subham. I'm a Full Stack Software Engineer.I have used technology such as Java, Spring boot, microservice architecture, HTML, CSS, bootstrap, docker, react, redux Angular, and AWS to deliver high-quality that drive success. I enjoy solving problems and always try to optimize and learn new technologies. Try to improve Everyday 1%.
 
 [![GitHub followers](https://img.shields.io/github/followers/SubhamKrGuptaDev?style=for-the-badge)](https://github.com/SubhamKrGuptaDev)
 
@@ -14,11 +14,13 @@
 
 <br>
 
-## Greetings
+# Greetings
 
 WELCOME TO MY GITHUB REPOSITORY
+<BR>
+👉 DON'T FORGET TO FOLLOW ME 👈
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kr-gupta/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/subham7031979) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/subham7031) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SubhamKrGuptaDev/) [![Scaler](https://img.shields.io/badge/_Scaler_-black?style=for-the-badge)](https://www.scaler.com/academy/profile/4124fcd72452) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/subham7031979/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14772343/subham-kr-gupta) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SubDeveloper) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SubDeveloper) [![Link Tree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/SubDeveloper) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/subhamkrgupta) [![Interview Bit](https://img.shields.io/badge/_Interview%20Bit_-black?style=for-the-badge&logoColor=%236DB33F&color=black)
@@ -33,15 +35,17 @@ WELCOME TO MY GITHUB REPOSITORY
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamKrGuptaDev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubhamKrGuptaDev)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 Certificates
+# 🏆 Certificates
 
 ### Udemy Certificates
 
 ![Spring Boot Certificate](./Screenshot%202024-05-17%20002041.png)
+
+---
 
 ### HackerRank Certificates
 
@@ -51,9 +55,13 @@ WELCOME TO MY GITHUB REPOSITORY
 
 ![HackerRank SQL Certificate Intermediate](./HackerRank%20SQL%20Certificate%20Intermediate.png)
 
+---
+
 ### Coursera Certificates
 
 ![Python Certificate](./Python.png)
+
+---
 
 ### Scaler Certificates
 
