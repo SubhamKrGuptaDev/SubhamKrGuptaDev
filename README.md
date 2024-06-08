@@ -22,6 +22,10 @@ WELCOME TO MY GITHUB REPOSITORY
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14772343/subham-kr-gupta) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SubDeveloper) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SubDeveloper) [![Link Tree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/SubDeveloper) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/subhamkrgupta) [![Interview Bit](https://img.shields.io/badge/_Interview%20Bit_-black?style=for-the-badge&logoColor=%236DB33F&color=black)
 ](https://www.interviewbit.com/profile/subham-gupta_710/)
 
+# Leetcode
+
+![LeetCode Stats](https://leetcode.card.workers.dev/SubhamKrGuptaDev?theme=dark&font=baloo&extension=activity)
+
 # 💻 Tech Stack:
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Spring Cloud](https://img.shields.io/badge/_Spring%20Cloud_-black?style=for-the-badge&logo=springboot&logoColor=%236DB33F&color=black)
