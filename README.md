@@ -6,9 +6,6 @@
 
 ## My name is Subham. I'm a Full Stack Software Engineer. I have knowledge of Java, Spring boot, microservice architecture, HTML, CSS, bootstrap, docker, react, redux Angular, and AWS to deliver high-quality that drives success. I enjoy solving problems and always try to optimize and learn new technologies. Try to improve Everyday 1%.
 
-# 📷 Pictures
-
-![Pictures](./GIF%20With%20PIC.gif)
 [![GitHub followers](https://img.shields.io/github/followers/SubhamKrGuptaDev?style=for-the-badge)](https://github.com/SubhamKrGuptaDev)
 
 <br>
@@ -74,3 +71,7 @@ WELCOME TO MY GITHUB REPOSITORY
 ### Coursera Certificates
 
 ![Python Certificate](./Python.png)
+
+# 📷 Pictures
+
+![Pictures](./GIF%20With%20PIC.gif)
