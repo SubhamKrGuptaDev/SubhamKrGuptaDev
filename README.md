@@ -71,7 +71,3 @@ WELCOME TO MY GITHUB REPOSITORY
 ### Coursera Certificates
 
 ![Python Certificate](./Python.png)
-
-# 📷 Pictures
-
-![Pictures](./GIF%20With%20PIC.gif)
