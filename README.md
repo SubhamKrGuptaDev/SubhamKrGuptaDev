@@ -28,7 +28,7 @@ WELCOME TO MY GITHUB REPOSITORY
 
 # 📄 Resume
 
-[![My Resume](./SubhamKrGupta.png)](https://drive.google.com/file/d/1zNLzg1eE3laJJFcA8k4btWdiCmjyAeff/view?usp=sharing)
+[![My Resume](./SubhamKrGupta.png)](https://drive.google.com/file/d/16EYApYNP-DwtBzCaZyD4oPx84ARqytPl/view?usp=sharing)
 
 # 🧑‍💻 Leetcode
 
